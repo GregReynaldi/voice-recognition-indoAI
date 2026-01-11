@@ -1,0 +1,17 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+torch
+torchaudio
+librosa
+
+# Hugging Face libraries
+datasets
+transformers
+evaluate
+sentence-transformers
+
+# Additional utilities
+tqdm
+ipykernel
