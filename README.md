@@ -1,7 +1,5 @@
 # Voice Recognition with Transformer Models
 
-![Voice Recognition](https://neeko-copilot.bytedance.net/api/text2image?prompt=voice%20recognition%20technology%20abstract%20background%20with%20audio%20waves%20and%20neural%20networks&image_size=square_hd)
-
 A comprehensive voice recognition system that implements and compares state-of-the-art transformer models for speech recognition, including Whisper and Wav2Vec2. The project uses the MINDS-14 dataset to evaluate model performance across multiple languages.
 
 ## Table of Contents
