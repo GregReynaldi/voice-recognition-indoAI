@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - GitHub: [@GregReynaldi](https://github.com/GregReynaldi)
-- Email: [gregorius.reynaldi@example.com](mailto:gregorius.reynaldi@example.com)
+- Email: [gregoriusreynaldi@gmail.com](mailto:gregoriusreynaldi@gmail.com)
 
 ---
 
